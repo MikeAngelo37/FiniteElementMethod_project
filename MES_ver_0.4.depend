@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1675720179 source:c:\users\dell\desktop\twory\mes_ver_0.4\jakobian.cpp
+	<iostream>
+	"jakobian.h"
+
+1675888783 c:\users\dell\desktop\twory\mes_ver_0.4\jakobian.h
+	<iostream>
+
+1690719342 source:c:\users\dell\desktop\twory\mes_ver_0.4\main.cpp
+	<iostream>
+	<math.h>
+	"siatki.h"
+	"jakobian.h"
+	"macierzH.h"
+
+1690657549 c:\users\dell\desktop\twory\mes_ver_0.4\siatki.h
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+
+1690658244 c:\users\dell\desktop\twory\mes_ver_0.4\macierzh.h
+	<iostream>
+	<math.h>
+	<vector>
+
+1675535376 source:c:\users\dell\desktop\twory\mes_ver_0.4\siatki.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+	<string>
+	"siatki.h"
+
+1690715575 source:c:\users\dell\desktop\twory\mes_ver_0.4\macierzh.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	"macierzH.h"
+	"jakobian.h"
+
